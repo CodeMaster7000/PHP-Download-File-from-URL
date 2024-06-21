@@ -6,4 +6,4 @@ A PHP script, utilising cURL, to download a file from a URL. For more informatio
 
 ## Instructions for Use
 
-Simply navigate to `src`, download the coee, and run `php main.php` in your terminal.
+Simply navigate to `src`, download the coee, and run `php main.php` in your terminal. Enjoy!
